@@ -152,6 +152,7 @@
   .menu.active {
     transform: translateX(0);
     top: 65px;
+    z-index: 2;
   }
 }
 .burger {
